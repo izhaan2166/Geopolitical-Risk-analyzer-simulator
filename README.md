@@ -14,7 +14,6 @@ A high-fidelity **Multi-Agent Systems (MAS)** framework designed to simulate and
 * **Language**: Python 3.x
 * **Vector DB**: ChromaDB
 * **Modeling**: Multi-agent framework (Custom/Open Source)
-* **Hardware Target**: RTX 4060 (8GB VRAM) / 128GB DDR5 RAM
 
 ## Project Structure
 
