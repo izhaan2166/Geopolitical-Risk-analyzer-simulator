@@ -9,7 +9,7 @@ A high-fidelity **Multi-Agent Systems (MAS)** framework designed to simulate and
 * **Massive Simulation Scope**: Pre-loaded with a **500-scenario synthetic dataset** designed to stress-test regional stability and economic resilience.
 * **High-Performance Design**: Optimized for local execution on high-end hardware (NVIDIA RTX 4060+ with high-capacity RAM) to ensure rapid inference and complex state management.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 * **Language**: Python 3.x
 * **Vector DB**: ChromaDB
