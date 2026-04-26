@@ -7,7 +7,7 @@ A high-fidelity **Multi-Agent Systems (MAS)** framework designed to simulate and
 * **Multi-Agent Orchestration**: Independent agents representing diplomatic, economic, and strategic interests interact within a simulated environment.
 * **Strategic Knowledge Base**: Powered by **ChromaDB**, providing agents with low-latency access to a massive repository of trade facts and geopolitical history.
 * **Massive Simulation Scope**: Pre-loaded with a **500-scenario synthetic dataset** designed to stress-test regional stability and economic resilience.
-* **High-Performance Design**: Optimized for local execution (NVIDIA RTX 4060+ 16GB VRAM) to ensure rapid inference and complex state management.
+* **High-Performance Design**: Optimized for local execution (NVIDIA RTX 4060+ 8GB VRAM) to ensure rapid inference and complex state management.
 
 ## Technical Stack
 
