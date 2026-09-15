@@ -12,7 +12,7 @@ A high-fidelity **Multi-Agent Systems (MAS)** framework designed to simulate and
 ## Technical Stack
 
 * **Language**: Python 3.x
-* **Vector DB**: ChromaDB
+* **Vector DB**: ChromaDB.
 * **Modeling**: Multi-agent framework (Custom/Open Source)
 
 ## Project Structure
